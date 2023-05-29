@@ -20,7 +20,7 @@
     "title": "New 'Free' mode",
     "desc": "Now you can spin a roulette freely",
     "image": "https://live.staticflickr.com/65535/52933331744_e53f37506d_b.jpg",
-    "link": "/",
+    "link": "/free-roulette",
     "active": true
   },
   {
@@ -28,7 +28,7 @@
     "title": "New design!",
     "desc": "The tip roulette now has a new design!",
     "image": "https://live.staticflickr.com/65535/52932579322_23cac3c232_c.jpg",
-    "link": "/",
+    "link": "/roulette",
     "active": true
   }
 ]
