@@ -1,25 +1,33 @@
 [
   {
-    "id": "02",
-    "title": "Update of Profile section",
-    "desc": "The Profile section now has the Like function!",
-    "image": "https://live.staticflickr.com/65535/52887602156_c36f0cf6da_h.jpg",
-    "link": "/profile",
-    "active": true
-  },
-  {
-    "id": "03",
-    "title": "Home and News!",
-    "desc": "Home is open with the news section!",
-    "image": "https://live.staticflickr.com/65535/52879055808_a3becd839a.jpg",
-    "link": "/home",
-    "active": true
-  },
-  {
     "id": "04",
     "title": "Español disponible!",
     "desc": "Ya está disponible el idioma español",
     "image": "https://live.staticflickr.com/65535/52883978081_0107e4712f.jpg",
+    "link": "/",
+    "active": true
+  },
+  {
+    "id": "05",
+    "title": "New index page",
+    "desc": "With tips and free modes!",
+    "image": "https://live.staticflickr.com/65535/52933331739_39198f3396_c.jpg",
+    "link": "/",
+    "active": true
+  },
+  {
+    "id": "06",
+    "title": "New 'Free' mode",
+    "desc": "Now you can spin a roulette freely",
+    "image": "https://live.staticflickr.com/65535/52933331744_e53f37506d_b.jpg",
+    "link": "/",
+    "active": true
+  },
+  {
+    "id": "07",
+    "title": "New design!",
+    "desc": "The tip roulette now has a new design!",
+    "image": "https://live.staticflickr.com/65535/52932579322_23cac3c232_c.jpg",
     "link": "/",
     "active": true
   }
